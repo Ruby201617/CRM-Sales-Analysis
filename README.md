@@ -48,7 +48,12 @@ The analysis was conducted using a structured data analytics workflow to ensure 
 - Interpreted trends and performance indicators.
 - Identified opportunities for revenue growth and process improvement.
 - Developed data-driven recommendations for stakeholders.
-  
+
+## Dashboard Preview
+![Overview Dashboard]/(overview-dashboard.png)
+![CRM Dasboard 1]/(CRM-dashboard-1.png)
+![CRM Dasboard 2]/(CRM-dashboard-2.png)
+
 ## Key Insights
 
 ### Revenue Concentration by Product
